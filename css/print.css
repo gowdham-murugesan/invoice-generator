@@ -1,7 +1,7 @@
 #hiderow,
 .delete,
 #form1 {
-  display: none;
+  display: none  !important;
 }
 
 @page {
